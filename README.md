@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **Amr-Hendawy/Amr-hendawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 I am a passionate React developer
 
 - 🔭 I’m currently working on Web app with React
@@ -12,4 +12,5 @@ I am a passionate React developer
 - 💬 Ask me about JavaScript,React
 - 📫 How to reach me: (amr.fathy.ebraheem@gmail.com)
 
--->
+
+## Socials :
